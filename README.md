@@ -1,4 +1,4 @@
-# Blinks Reference Implementation
+# Blinks Reference Implementation 
 
 This repository contains the reference implementation of Blinks for merchandise and edition prints, developed using Rust and Rocket(the Rocket framework). It serves as a practical example for integrating Blinks functionality in Rust-based projects, complementing the official documentation, which primarily provides TypeScript examples.
 
